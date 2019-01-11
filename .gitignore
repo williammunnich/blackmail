@@ -42,6 +42,10 @@ captures/
 .idea/dictionaries
 .idea/libraries
 .idea/caches
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
@@ -65,3 +69,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+
